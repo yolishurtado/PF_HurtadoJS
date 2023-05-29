@@ -22,6 +22,7 @@
     margin-right: 20px;
     margin-top: 3.5vh;
     cursor: pointer;
+    color: #000;
   }
   
   .banner {
@@ -85,7 +86,7 @@
     border: none;
     outline: 0;
     padding: 12px;
-    color: rgb(223, 247, 238);
+    color: rgb(68, 64, 64);
     background-color: #000;
     text-align: center;
     cursor: pointer;
@@ -141,6 +142,9 @@
     align-items: center;
     width: 70%;
     margin: 10px;
+    background-color: rgb(214, 219, 219);
+    color: #000;
+    
   }
   
   .modal-container>div>img {
@@ -153,6 +157,7 @@
     padding: 20px;
     text-align: center;
     padding-top: 20px;
+    background-color: gray;
   }
   
   
@@ -180,8 +185,8 @@
   }
   
   .cantidad-carrito {
-    background-color: rgb(5, 5, 5);
-    color: white;
+    background-color: rgb(212, 209, 209);
+    color: rgb(0, 0, 0);
     border-radius: 50%;
     font-size: 12px;
     padding: 4px;
@@ -217,7 +222,7 @@
     margin-top: 10px;
     padding: 15px;
     color: black;
-    background-color:red;
+    background-color:rgb(54, 53, 53);
     text-align: center;
     cursor: pointer;
     width: 20%;
